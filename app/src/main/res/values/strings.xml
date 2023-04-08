@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ThucHanh2</string>
+    <string-array name="place">
+        <item>Hồ Gươm</item>
+        <item>Lăng Chủ Tịch</item>
+        <item>Cột cờ Hà Nội</item>
+        <item>Chùa Một Cột</item>
+        <item>Hồ Tây</item>
+        <item>Chùa Trấn Quốc</item>
+    </string-array>
+</resources>
